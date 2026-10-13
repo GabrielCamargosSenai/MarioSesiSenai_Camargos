@@ -1,3 +1,5 @@
+<!-- Wishplash - Metallica -->
+
 <?php
 
     $host = 'localhost';
